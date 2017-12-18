@@ -23,5 +23,4 @@ class IdeaController extends Controller
     	return;
     }
 
-
 }
